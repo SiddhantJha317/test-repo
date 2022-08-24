@@ -8,7 +8,7 @@ with st.container():
     st.title('Hi i am Siddhant :wave:')
 
     st.subheader(" Hi welcome, are you new to this place my name is Siddhant i am an aspiring data scientist working on various projects across the fields of Machine Learning and also Deep learning , i also like to participate in various ML competitions ,both online and offline in the recent past.") 
-    st.subheader(" Other than that this website of mine conatins all of my work which you can check on the Projects page and also feel free to Contact me personally or on public platfroms from the Contact page")
+    st.subheader(" Other than that ,this website of mine contains all of my work which you can check on the Projects page and also feel free to Contact me personally or on public platfroms from the Contact page")
 
 # Load assets
 def load_lottieurl(url):
